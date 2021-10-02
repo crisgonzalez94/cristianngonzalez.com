@@ -79,9 +79,17 @@
 						<!-- ***** Menu Start ***** -->
 						<ul class="nav">
 							<li><a href="{{route("inicio")}}">Inicio</a></li>
-							<li><a href="{{route("contacto")}}">Contacto</a></li>
-              <li><a href="{{route("acerca")}}">Acerca de nosotros</a></li>
-							<li><a class="btn-nav" href="{{route("contacto")}}">Pide cotizacion personalizada</a></li>
+							<li class="submenu">
+								<a href="javascript:;">Web, SEO y redes</a>
+								<ul>
+									<li><a href="#features">Servicios</a></li>
+									<li><a href="#testimonials">Testimonios</a></li>
+									<li><a href="#pricing-plans">Planes y precios</a></li>
+									<li><a href="#blog">Servicios Populares</a></li>
+								</ul>
+							</li>
+							<li><a href="contact.html">Contacto</a></li>
+							<li><a class="btn-nav" href="blue-contact.html">Pide cotizacion personalizada</a></li>
 						</ul>
 						<a class='menu-trigger'>
 							<span>Menu</span>
