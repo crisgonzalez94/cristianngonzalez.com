@@ -70,7 +70,7 @@
 				<div class="col-12">
 					<nav class="main-nav">
 						<!-- ***** Logo ***** -->
-						<a href="index.html" class="logo">
+						<a href="{{route("inicio")}}" class="logo">
 							<img src="assets/images/logo.png" alt="Cristiann Gonzalez Desarrollo web, diseño grafico. Videos" type="img/png"/>
 						</a>
 						<!-- ***** Logo End ***** -->
@@ -78,26 +78,10 @@
 
 						<!-- ***** Menu Start ***** -->
 						<ul class="nav">
-							<li><a href="blue-index.html#welcome">Inicio</a></li>
-							<li class="submenu">
-								<a href="javascript:;">Web, SEO y redes</a>
-								<ul>
-									<li><a href="index.html#features">Servicios</a></li>
-									<li><a href="index.html#testimonials">Testimonios</a></li>
-									<li><a href="index.html#pricing-plans">Planes y precios</a></li>
-									<li><a href="index.html#blog">Servicios Populares</a></li>
-								</ul>
-							</li>
-							<li class="submenu">
-								<a href="javascript:;">Info</a>
-								<ul>
-									<li><a href="about.html">Acerca de mi</a></li>
-									<li><a href="features.html">Servicios</a></li>
-									<li><a href="faq.html">Preguntas Frecuentes</a></li>
-								</ul>
-							</li>
-							<li><a href="contact.html">Contacto</a></li>
-							<li><a class="btn-nav" href="blue-contact.html">Pide cotizacion personalizada</a></li>
+							<li><a href="{{route("inicio")}}">Inicio</a></li>
+							<li><a href="{{route("contacto")}}">Contacto</a></li>
+              <li><a href="{{route("acerca")}}">Acerca de nosotros</a></li>
+							<li><a class="btn-nav" href="{{route("contacto")}}">Pide cotizacion personalizada</a></li>
 						</ul>
 						<a class='menu-trigger'>
 							<span>Menu</span>
