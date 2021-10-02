@@ -247,10 +247,9 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-6">
 					<h5>Soporte</h5>
 					<ul class="footer-nav">
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>Acerca de nosotros</span></a></li>
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>Servicios</span></a></li>
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>Preguntas Frecuentes</span></a></li>
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>Contacto</span></a></li>
+						<li><a href="{{route('acerca')}}"><i class="fa fa-angle-right"></i><span>Acerca de nosotros</span></a></li>
+						<li><a href="{{route('acerca')}}"><i class="fa fa-angle-right"></i><span>Preguntas Frecuentes</span></a></li>
+						<li><a href="{{route('contacto')}}"><i class="fa fa-angle-right"></i><span>Contacto</span></a></li>
 					</ul>
 				</div>
 
@@ -286,9 +285,10 @@
 	<script src="assets/js/parallax.min.js"></script>
 	<script src="assets/js/waypoints.min.js"></script>
 	<script src="assets/js/jquery.counterup.min.js"></script>
-	<script src="assets/js/imgfix.min.js"></script>	
+	<script src="assets/js/imgfix.min.js"></script>
 
 	<!-- Global Init -->
 	<script src="assets/js/custom.js"></script>
+
 </body>
 </html>

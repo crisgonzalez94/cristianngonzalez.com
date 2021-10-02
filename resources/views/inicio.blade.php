@@ -88,8 +88,8 @@
 									<li><a href="#blog">Servicios Populares</a></li>
 								</ul>
 							</li>
-							<li><a href="contact.html">Contacto</a></li>
-							<li><a class="btn-nav" href="blue-contact.html">Pide cotizacion personalizada</a></li>
+							<li><a href="{{route("contacto")}}">Contacto</a></li>
+							<li><a class="btn-nav" href="{{route("contacto")}}">Pide cotizacion personalizada</a></li>
 						</ul>
 						<a class='menu-trigger'>
 							<span>Menu</span>
@@ -635,10 +635,9 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 col-6">
 					<h5>Soporte</h5>
 					<ul class="footer-nav">
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>Acerca de nosotros</span></a></li>
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>Servicios</span></a></li>
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>Preguntas Frecuentes</span></a></li>
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>Contacto</span></a></li>
+						<li><a href="{{route('acerca')}}"><i class="fa fa-angle-right"></i><span>Acerca de nosotros</span></a></li>
+						<li><a href="{{route('acerca')}}"><i class="fa fa-angle-right"></i><span>Preguntas Frecuentes</span></a></li>
+						<li><a href="{{route('contacto')}}"><i class="fa fa-angle-right"></i><span>Contacto</span></a></li>
 					</ul>
 				</div>
 
