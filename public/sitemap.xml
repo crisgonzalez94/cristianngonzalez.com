@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset>
+
+	<url>
+		<loc>http://www.cristianngonzalez.com/</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+
+  <url>
+		<loc>http://www.cristianngonzalez.com/contacto</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+  <url>
+		<loc>http://www.cristianngonzalez.com/acerca</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+</urlset>
