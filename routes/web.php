@@ -24,3 +24,7 @@ Route::get('/acerca', function () {
 Route::get('/contacto', function () {
     return view('contacto');
 })->name('contacto');
+
+Route::get('/blogs' , function(){
+    return view('blogs');
+})->name('blogs');

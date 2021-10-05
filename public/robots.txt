@@ -1,2 +1,14 @@
+
+User-agent: Googlebot
+Allow: /
+Allow: /contacto
+Allow: /acerca
+Disallow: /settings
+
 User-agent: *
-Disallow:
+Allow: /
+Allow: /contacto
+Allow: /acerca
+Disallow: /settings
+
+Sitemap: http://www.cristianngonzalez.com/sitemap.xml

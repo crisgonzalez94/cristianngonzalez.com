@@ -23,7 +23,7 @@
 						<p>El mundo esta en internet, hoy en dia es alli donde se forja la competencia, desde el posicionamiento hasta la comunicacion en las redes y la web es clave en estos tiempos.</p>
 						<div class="buttons">
 							<a href="#" class="btn-white-line">Aprender más</a>
-							<a href="#" class="btn-primary-line">Contactame</a>
+							<a href="{{route('contacto')}}" class="btn-primary-line">Contactame</a>
 						</div>
 					</div>
 				</div>

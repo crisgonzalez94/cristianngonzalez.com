@@ -26,6 +26,13 @@
 </head>
 <body>
 
+	<!--=============================================================================================================================================-->
+	<!--Pluggin Facebook-->
+	<div id="fb-root"></div>
+	<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v12.0" nonce="4wvqXl2z"></script>
+	<!--=============================================================================================================================================-->
+
+
 	<!-- Messenger plugin de chat Code -->
 	<div id="fb-root" style="z-index: 100;"></div>
 
@@ -112,6 +119,9 @@
   @yield('content')
 
 
+
+
+
   <!-- ***** Footer Start ***** -->
 	<footer>
 		<div class="container">
@@ -129,6 +139,10 @@
 						<!--Telegram-->
 						<!--Correo-->
 						<li><a href="mailto:contact@cristianngonzalez.com" target="_black"><i class="bi bi-envelope"></i></a></li>
+						<li>
+							<!--Me gusta y compartir facebook-->
+							<div class="fb-like" data-href="https://www.facebook.com/cristianngonzalezok" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
+						</li>
 					</ul>
 				</div>
 

@@ -102,26 +102,34 @@
 						</div>
 						<!-- ***** Contact Text End ***** -->
 
-						<!-- ***** Contact Form Start ***** -->
-						<div class="col-lg-8 col-md-6 col-sm-12">
-							<div class="contact-form">
-								<div class="row">
-									<div class="col-lg-6 col-md-12 col-sm-12">
-										<input type="text" placeholder="¿Como te llamas?">
-									</div>
-									<div class="col-lg-6 col-md-12 col-sm-12">
-										<input type="text" placeholder="¿Como te contacto?">
-									</div>
-									<div class="col-lg-12">
-										<textarea placeholder="Tu mensaje"></textarea>
-									</div>
-									<div class="col-lg-12">
-										<button class="btn-primary-line">ENVIAR</button>
+
+
+						<!--======================================================================================-->
+						<!--Formulario de contacto-->
+						<form action="" method="post" class="col-lg-8 col-md-6 col-sm-12">
+							@csrf
+							@method('post')
+								<div class="contact-form">
+									<div class="row">
+										<div class="col-lg-6 col-md-12 col-sm-12">
+											<input type="text" placeholder="¿Como te llamas?">
+										</div>
+										<div class="col-lg-6 col-md-12 col-sm-12">
+											<input type="text" placeholder="¿Como te contacto?">
+										</div>
+										<div class="col-lg-12">
+											<textarea placeholder="Tu mensaje"></textarea>
+										</div>
+										<div class="col-lg-12">
+											<button class="btn-primary-line">ENVIAR</button>
+										</div>
 									</div>
 								</div>
-							</div>
-						</div>
+						</form>
 						<!-- ***** Contact Form End ***** -->
+						<!--======================================================================================-->
+
+
 					</div>
 				</div>
 			</div>
