@@ -458,7 +458,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="blog-post-thumb">
 						<div class="img">
-							<img src="assets/images/photos/blog/diseños-logotipos.png" alt="Diseños de logotipos para tu empresa.">
+							<img src="https://res.cloudinary.com/hepea0rcp/image/upload/v1633891012/Home/disen%CC%83os-logotipos_pddxrf.png" alt="Diseños de logotipos para tu empresa.">
 						</div>
 						<div class="blog-content">
 							<h3>
