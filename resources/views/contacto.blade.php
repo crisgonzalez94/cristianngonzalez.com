@@ -106,22 +106,22 @@
 
 						<!--======================================================================================-->
 						<!--Formulario de contacto-->
-						<form action="" method="post" class="col-lg-8 col-md-6 col-sm-12">
+						<form action="{{route('mail')}}" method="post" class="col-lg-8 col-md-6 col-sm-12">
 							@csrf
 							@method('post')
 								<div class="contact-form">
 									<div class="row">
 										<div class="col-lg-6 col-md-12 col-sm-12">
-											<input type="text" placeholder="¿Como te llamas?">
+											<input type="text" placeholder="¿Como te llamas?" name="nombre">
 										</div>
 										<div class="col-lg-6 col-md-12 col-sm-12">
-											<input type="text" placeholder="¿Como te contacto?">
+											<input type="text" placeholder="Pon aqui tu numero de telefono o correo" name="contacto">
 										</div>
 										<div class="col-lg-12">
-											<textarea placeholder="Tu mensaje"></textarea>
+											<textarea placeholder="Tu mensaje" name="mensaje"></textarea>
 										</div>
 										<div class="col-lg-12">
-											<button class="btn-primary-line">ENVIAR</button>
+											<input type="submit" value="ENVIAR" class="btn-primary-line">
 										</div>
 									</div>
 								</div>

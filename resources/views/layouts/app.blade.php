@@ -81,7 +81,7 @@
 					<nav class="main-nav">
 						<!-- ***** Logo ***** -->
 						<a href="{{route("inicio")}}" class="logo">
-							<img src="assets/images/logo.png" alt="Cristiann Gonzalez Desarrollo web, diseño grafico. Videos" type="img/png"/>
+							<img src="https://res.cloudinary.com/hepea0rcp/image/upload/v1633879249/Assets/logo_y6u4e0.png" alt="Cristiann Gonzalez Desarrollo web, diseño grafico. Videos" type="img/png"/>
 						</a>
 						<!-- ***** Logo End ***** -->
 
@@ -127,7 +127,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12 col-sm-12">
-					<img src="assets/images/logo-footer.png" class="logo" alt="">
+					<img src="https://res.cloudinary.com/hepea0rcp/image/upload/v1633879263/Assets/logo-footer_qgnxhm.png" class="logo" alt="Cristiann Gonzalez Diseño y Desarrollo Web">
 					<div class="text">Proveemos servicios para negocios digitales, diseño grafico, analisis de SEO y Desarrollo web.</div>
 					<ul class="social">
 						<!--Facebook-->
@@ -159,7 +159,7 @@
 					<h5>Contactame</h5>
 					<div class="address">
 						<p>Telefono: (+54) 011-7013-9816</p>
-						<p><a href="#">contact@cristianngonzalez.com</a></p>
+						<p><a href="mailto:contact@cristianngonzalez.com" target="_black">contact@cristianngonzalez.com</a></p>
 					</div>
 				</div>
 
