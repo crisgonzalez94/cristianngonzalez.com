@@ -490,7 +490,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="blog-post-thumb">
 						<div class="img">
-							<img src="https://res.cloudinary.com/hepea0rcp/video/upload/v1633873941/Home/video-service_ufmxgs.mp4" alt="Video publicitario para redes sociales, youtube facebook e instagram">
+							<img src="https://res.cloudinary.com/hepea0rcp/image/upload/v1633875182/Home/video-service_w91fso.png" alt="">
 						</div>
 						<div class="blog-content">
 							<h3>
