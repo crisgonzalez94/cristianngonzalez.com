@@ -228,11 +228,11 @@
 							<i class="fa fa-quote-left"></i>
 							<p>I wanted to tip but fiverr charges a fee that amounts to half the tip! Check upwork to get better compensation for your work. Fiverrr is ripping you guys off.</p>
 							<div class="user-image">
-								<img src="assets/images/photos/team/1.jpg" alt="">
+								<img src="https://res.cloudinary.com/hepea0rcp/image/upload/v1633909901/Home/Reviews/8EF56317-F33C-477E-AB34-F578AD5EB947_thtdcd.jpg" alt="Ilustracion y vectorizaciones" width="58px">
 							</div>
 							<div class="team-info">
 								<h3 class="user-name">Asset Chae</h3>
-								<span>Product Strategist</span>
+								<span>Cliente de Fiverr</span>
 							</div>
 						</div>
 					</div>
@@ -246,11 +246,11 @@
 							<i class="fa fa-quote-left"></i>
 							<p>EXCELLENT WORK ONCE AGAIN... THE BEST !!!!</p>
 							<div class="user-image">
-								<img src="assets/images/photos/team/2.jpg" alt="">
+								<img src="https://res.cloudinary.com/hepea0rcp/image/upload/v1633909904/Home/Reviews/9926a215-fa2d-447d-bc81-a8a5ed37200c_pg6nfk.jpg" alt="Diseño y desarrollo web, Cristiann Gonzalez" width="58px">
 							</div>
 							<div class="team-info">
 								<h3 class="user-name">Darrius Colter</h3>
-								<span>Visual Designer</span>
+								<span>Cliente de Fiverr</span>
 							</div>
 						</div>
 					</div>
@@ -264,11 +264,11 @@
 							<i class="fa fa-quote-left"></i>
 							<p>He was quick to respond, respectful and honest about his areas of expertise. I enjoyed his work, and I would like to work with him again in the future!</p>
 							<div class="user-image">
-								<img src="assets/images/photos/team/3.jpg" alt="">
+								<img src="https://res.cloudinary.com/hepea0rcp/image/upload/v1633909728/Home/Reviews/1_czdbiw.jpg" alt="Ilustraciones y desarrollo" width="58px">
 							</div>
 							<div class="team-info">
 								<h3 class="user-name">Falpa</h3>
-								<span>Android Developer</span>
+								<span>Cliente de Fiverr</span>
 							</div>
 						</div>
 					</div>
@@ -462,12 +462,12 @@
 						</div>
 						<div class="blog-content">
 							<h3>
-								<a href="blue-blog-single.html">Diseño de logotipo</a>
+								<a >Diseño de logotipo</a>
 							</h3>
 							<div class="text">
 								Tenemos un logo especial y unico para ti.
 							</div>
-							<a href="blue-blog-single.html" class="btn-primary-line">Desde $10</a>
+							<a class="btn-primary-line">Desde $10</a>
 						</div>
 					</div>
 				</div>
@@ -483,7 +483,7 @@
 							<div class="text">
 								Estaticos y animados.
 							</div>
-							<a href="blue-blog-single.html" class="btn-primary-line">Desde $20</a>
+							<a class="btn-primary-line">Desde $20</a>
 						</div>
 					</div>
 				</div>
@@ -494,12 +494,12 @@
 						</div>
 						<div class="blog-content">
 							<h3>
-								<a href="blue-blog-single.html">Video Publicitario</a>
+								<a >Video Publicitario</a>
 							</h3>
 							<div class="text">
 								Ideal para YouTube
 							</div>
-							<a href="blue-blog-single.html" class="btn-primary-line">Desde $30</a>
+							<a  class="btn-primary-line">Desde $30</a>
 						</div>
 					</div>
 				</div>
