@@ -54,11 +54,9 @@
                             Sean bienvenidos a mi portafolio, aquí verán algunos de los trabajos relacionados a la tecnología que hice en el último tiempo.
                             Y si deseas eres libre de dejarme tus impresiones o cualquier cosa que quieras decirme al final de este sitio.
                         </p>
-                        <!--Pdf Curriculum-->
-                        <form action="cv.pdf" method="get">
-                            <button class="btn-1" type="submit">Mi   CV</button>
-                        </form>
-                        <!--End Pdf Curriculum-->
+                        <!--Curriculum-->
+                        <a href="cv.pdf" class="btn-1">Descargar CV</a>
+                        <!--End Curriculum-->
                         <a href="https://www.fiverr.com/crisgonzalez94" target="_blank" class="btn-2">Mi pefil de Fiverr</a>
                     </div>
                 </div>
