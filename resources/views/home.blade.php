@@ -22,7 +22,7 @@
                                 <p class="paragraph">
                                     Sean Bienvenidos a mi página personal aquí verán todos mis trabajos, proyectos y detalles de mi vida, Gracias :)
                                 </p>
-                                <a href="#0" class="btn">Descargar CV</a>
+                                <a href="cv.pdf" class="btn">Descargar CV</a>
                             </div>
                         </div>
                     </div>
