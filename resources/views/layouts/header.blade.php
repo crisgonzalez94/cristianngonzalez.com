@@ -43,6 +43,12 @@
 
     <body>
 
+        <!--Facebook SDK-->
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v12.0" nonce="UCqLtXuC"></script>
+        <!---------------------------->
+
+        
         <!-- Messenger Plugin de chat Code -->
         <div id="fb-root"></div>
 

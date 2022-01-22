@@ -18,6 +18,14 @@
       </a>
   </div>
   <p>Todos los derechos reservados 2022</p>
+
+  <br>
+  <div class="fb-like" data-href="https://www.facebook.com/cristianngonzalezok" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
+  <br>
+  <br>
+  <br>
+
+
 </footer>
 <!-- ===== End Footer ===== -->
 
