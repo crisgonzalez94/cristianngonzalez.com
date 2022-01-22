@@ -70,8 +70,9 @@ body {
    [02]. Slider
 ========================== */
 .slider {
-    background: url('../img/bg/slider-bg.png') center center no-repeat;
+    background: url('../img/bg/slider-bg.png') center center repeat-x;
     height: calc(100vh - 92px);
+    width: 100%;
     background-attachment: fixed;
     display: flex;
     justify-content: center;
